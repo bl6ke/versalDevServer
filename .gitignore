@@ -1,0 +1,7 @@
+cache
+server
+db
+.env
+node_modules
+license.cfg
+steamWebAPIKey.cfg
